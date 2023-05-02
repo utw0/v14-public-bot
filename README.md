@@ -9,3 +9,5 @@
 * Sonra klasörün içerisinde bir `powershell` ya da `cmd` penceresi açın.
 * ```npm install``` yazarak tüm modülleri kurun.
 * Kurulum bittikten sonra ```pm2 start``` yazın ve botu başlatın. Tebrikler!
+
+# Görseller Yakında
