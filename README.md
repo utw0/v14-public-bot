@@ -10,4 +10,9 @@
 * ```npm install``` yazarak tüm modülleri kurun.
 * Kurulum bittikten sonra ```pm2 start``` yazın ve botu başlatın. Tebrikler!
 
-# Görseller Yakında
+# Stat Görselleri
+https://cdn.discordapp.com/attachments/1081137637458448424/1103416221409488926/image.png
+https://cdn.discordapp.com/attachments/1081137637458448424/1103416303932428408/image.png
+https://cdn.discordapp.com/attachments/1081137637458448424/1103416530588405890/image.png
+https://cdn.discordapp.com/attachments/1081137637458448424/1103416530848456734/image.png
+https://cdn.discordapp.com/attachments/1081137637458448424/1103416531125288980/image.png
