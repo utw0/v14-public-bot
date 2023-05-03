@@ -1,6 +1,8 @@
 # v14-public-bot
-Ücretli Bot Veya Altyapı İçin luhux#0101 <br>
-Güzel Star Geldiğinde Paylaşıcam
+
+* Ücretli Bot Veya Altyapı İçin luhux#0101 <br>
+* Güzel Star Geldiğinde Paylaşıcam
+
 # Kurulum
 * İlk olarak bilgisayarınıza [Node JS](https://nodejs.org/en/) indirin.
 * Daha sonra bir [MongoDB](http://mongodb.com) hesabı oluşturun ve connection linki alın.
