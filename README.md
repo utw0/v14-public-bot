@@ -16,7 +16,7 @@
 # Stat Görselleri
 ![image](https://user-images.githubusercontent.com/74924310/236041279-bebef641-6515-40b5-be88-017c9680387e.png)
 ![image](https://user-images.githubusercontent.com/74924310/236041306-0220fd50-3514-4661-b5d7-2a5fb75915da.png)
-![image](https://user-images.githubusercontent.com/74924310/236041330-7cdc9539-4f20-4aa0-8d8c-3b2bfd9208bf.png)
+![image](https://user-images.githubusercontent.com/74924310/236139839-acd6a9ca-b101-4ccb-9828-e1719bb7015b.png)
 ![image](https://user-images.githubusercontent.com/74924310/236041343-dc232bb4-f953-4673-847e-340c66106ba0.png)
 ![image](https://user-images.githubusercontent.com/74924310/236041354-0274c8c5-7d38-4393-8f76-b27dafe89c7a.png)
 # Setup Görselleri
