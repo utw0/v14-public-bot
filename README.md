@@ -1,5 +1,5 @@
 # v14-public-bot
-
+* V14 GUARD MOD STAT YÖNETİM İSTEK ALTYAPILAR UYGUN FİYATA SATILIK KAÇIRMAYIN
 * Ücretli Bot Veya Altyapı İçin luhux#0101 <br>
 * Güzel Star Geldiğinde Paylaşıcam
 
